@@ -2,12 +2,12 @@
 
 - 一个业余的Java和JavaScript开发者，目前主要开发[Mindustry](https://github.com/Anuken/Mindusty)的mods.
 - An amateur Java and JavaScript developer, primarily focused on developing mods for [Mindustry](https://github.com/Anuken/Mindustry).
-- > [ModTools](https://github.com/I-hope1/mod-tools)
+- **[ModTools](https://github.com/I-hope1/mod-tools)**<p><img src="https://github.com/I-hope1/mod-tools/blob/ea2bff46acb776535864948947fd27136554d497/assets/icon.png" width=25%></div></p>
 
 # Channels
 
-* **GitHub**: [I-hope1](https://github.com/I-hope1)
-* **bilibili：[happy的96956](https://space.bilibili.com/473547626)**
+* **GitHub**: *[I-hope1](https://github.com/I-hope1)*
+* **bilibili**：*[happy的96956](https://space.bilibili.com/473547626)*
 
 
 # Skills
