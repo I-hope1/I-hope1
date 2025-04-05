@@ -3,6 +3,9 @@
 - 一个业余的Java和JavaScript开发者，目前主要开发[Mindustry](https://github.com/Anuken/Mindusty)的mods.
 - An amateur Java and JavaScript developer, primarily focused on developing mods for [Mindustry](https://github.com/Anuken/Mindustry).
 - **[ModTools](https://github.com/I-hope1/mod-tools)**<p><img src="https://github.com/I-hope1/mod-tools/blob/ea2bff46acb776535864948947fd27136554d497/assets/icon.png" width=25%></div></p>
+- 不寻常的Java
+- ![image](https://github.com/user-attachments/assets/457b40d9-6ae9-4ddb-9321-c563945d748e)
+
 
 # Channels
 
